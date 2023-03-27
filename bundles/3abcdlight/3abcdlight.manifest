@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 897680073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fab2ebaef46cf7e250b2d833ef026d69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc313608598af0917cce4295eb68add9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundlesPrefab/3abcd/3abcd Variant.prefab
+Dependencies:
+- D:/Business/Unity/lotus-ModelCreator-Unity/Assets/Bundles/3abcd
