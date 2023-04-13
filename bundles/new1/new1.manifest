@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 303527928
+CRC: 1291051349
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a57838e425cd58fd670eb9b1238ac3df
+    Hash: 040159e430141958ed3cea2448cd95d6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8e7b8a383bb306ad21c42791fa8bfa25
+    Hash: 79b3967d6b66c37efb5ef4ae9ece4cba
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -40,10 +40,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 38025e9300822a146ac1328021446430, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 1ca002da428252441b92f28d83c8a65f, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 8233d90336aea43098adf6dbabd606a2, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 36003be02bd7fc54db18675085e2ab6f, type: 3}
@@ -66,18 +62,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: Polyperfect.Common.IdleState
 - AssemblyName: Polyperfect.Common
   ClassName: Polyperfect.Common.MovementState
-- AssemblyName: Unity.ProBuilder
-  ClassName: UnityEngine.ProBuilder.AutoUnwrapSettings
-- AssemblyName: Unity.ProBuilder
-  ClassName: UnityEngine.ProBuilder.Face
-- AssemblyName: Unity.ProBuilder
-  ClassName: UnityEngine.ProBuilder.Shapes.Cube
-- AssemblyName: Unity.ProBuilder
-  ClassName: UnityEngine.ProBuilder.Shapes.Plane
-- AssemblyName: Unity.ProBuilder
-  ClassName: UnityEngine.ProBuilder.SharedVertex
-- AssemblyName: Unity.ProBuilder
-  ClassName: UnityEngine.ProBuilder.UnwrapParameters
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.CoreModule
