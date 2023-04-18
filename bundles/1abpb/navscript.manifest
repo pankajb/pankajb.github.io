@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3544222395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cba6b29e88018d0571f4e772f835960
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scripts/assetBundles.lforlotus.bytes
+Dependencies: []

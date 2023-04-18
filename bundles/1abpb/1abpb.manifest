@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 91170200
+CRC: 80228579
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0103485a660a667dea3fefa74b7ef80f
+    Hash: 616c00fc7018dd12ab7167775a5cc36e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2696f8dbfce604844f513e6970a2015c
+    Hash: 410fee121d72b069d215bd65c19fbca7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -37,19 +37,43 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -1472946069, guid: accd740c495f91e46bd177399337672b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38025e9300822a146ac1328021446430, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36003be02bd7fc54db18675085e2ab6f, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
 - Class: 224
   Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
+- AssemblyName: Polyperfect.Common
+  ClassName: Polyperfect.Common.AIState
+- AssemblyName: Polyperfect.Common
+  ClassName: Polyperfect.Common.IdleState
+- AssemblyName: Polyperfect.Common
+  ClassName: Polyperfect.Common.MovementState
 - AssemblyName: Unity.TextMeshPro
   ClassName: TMPro.FaceInfo_Legacy
 - AssemblyName: Unity.TextMeshPro
@@ -72,6 +96,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: TMPro.VertexGradient
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
 - AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.FaceInfo
 - AssemblyName: UnityEngine.TextCoreFontEngineModule
@@ -83,5 +109,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
+- Assets/BundlesPrefab/1abpb/1abpb.prefab
 - Assets/BundlesPrefab/2abcd/1abpb.prefab
 Dependencies: []
