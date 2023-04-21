@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1055580222
+CRC: 618705767
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 12caa5c6ae8497365a6fd3d1eb977445
+    Hash: a7f930286845fb9f218d75a7e69cd4f5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f54edb7eb9f44cb81d242df4b087f839
+    Hash: d019da42fae40854884a6bb82d456589
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -48,6 +48,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: ed3f2f4ae9401d6449c2e920a7472ef1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 36003be02bd7fc54db18675085e2ab6f, type: 3}
@@ -64,6 +66,8 @@ ClassTypes:
 - Class: 205
   Script: {instanceID: 0}
 - Class: 224
+  Script: {instanceID: 0}
+- Class: 238
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Polyperfect.Common
@@ -107,6 +111,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/BundlesPrefab/2abcd/1abpb.prefab
 - Assets/BundlesPrefab/1abpb/1abpb.prefab
+- Assets/BundlesPrefab/2abcd/1abpb.prefab
 Dependencies: []
