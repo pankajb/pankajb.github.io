@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4146745663
+CRC: 1055580222
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 674d2df308352a1191e62584482c9953
+    Hash: 12caa5c6ae8497365a6fd3d1eb977445
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8c4cd8facdf374fb6badb7fcedeb41fd
+    Hash: f54edb7eb9f44cb81d242df4b087f839
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -44,15 +44,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 36003be02bd7fc54db18675085e2ab6f, type: 3}
-- Class: 114
   Script: {fileID: 1216736868, guid: 57af00d1fbf22fc45934f59e97c2164c, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: ed3f2f4ae9401d6449c2e920a7472ef1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36003be02bd7fc54db18675085e2ab6f, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -66,8 +64,6 @@ ClassTypes:
 - Class: 205
   Script: {instanceID: 0}
 - Class: 224
-  Script: {instanceID: 0}
-- Class: 238
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Polyperfect.Common
@@ -111,6 +107,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/BundlesPrefab/1abpb/1abpb.prefab
 - Assets/BundlesPrefab/2abcd/1abpb.prefab
+- Assets/BundlesPrefab/1abpb/1abpb.prefab
 Dependencies: []
