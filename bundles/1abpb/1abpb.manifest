@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2203788653
+CRC: 1210797633
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 748539e9f279a0603a8e207342c5120c
+    Hash: 6b2f24cc7b636c99fe00514b8f32eaa7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9624fbf9bc6ff2bc2823244478cca6a6
@@ -66,8 +66,6 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
-- AssemblyName: Polyperfect.Common
-  ClassName: Polyperfect.Common.AIState
 - AssemblyName: Polyperfect.Common
   ClassName: Polyperfect.Common.IdleState
 - AssemblyName: Polyperfect.Common
